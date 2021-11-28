@@ -18,13 +18,12 @@
 }
 
 .app__formControl {
-  
   display: flex !important;
   flex-direction: row !important;
 }
 
 .app__input {
-  flex: 0.94;
+  flex: 0.93;
 }
 
 .app__iconButton {
